@@ -12,6 +12,12 @@
 
 -Authentication ve Firestore'un entegre edilip birlikte kullanılması işlemleri.
 
+-React Native Navigation ile Navigation işlemleri.
+
+-Custom Componentler ile Prop işlemleri.
+
+-AsyncStorage ile kullanıcı bilgilerini kaydetme işlemleri.
+
 gibi işlevleri içerir.
 
 Proje videosu: https://youtu.be/CtGuEYvCL_c
