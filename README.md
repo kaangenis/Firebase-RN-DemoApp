@@ -21,3 +21,4 @@
 gibi işlevleri içerir.
 
 Proje videosu: https://youtu.be/CtGuEYvCL_c
+
